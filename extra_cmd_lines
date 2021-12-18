@@ -1,0 +1,3 @@
+# Export response to csv: scrapy crawl [your-project-name] -o [your-file-name].csv
+# Export response to json: scrapy crawl [your-project-name] -o [your-file-name].json
+# Export response to xml: scrapy crawl [your-project-name] -o [your-file-name].xml
